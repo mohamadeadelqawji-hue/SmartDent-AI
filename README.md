@@ -49,7 +49,7 @@ SmartDent-AI/
 │   └── package.json            # Frontend dependency configuration
 │
 └── .gitignore                  # Environment and cache exclusion configurations
----
+
 
 ### 4.⚡ Quick Start & Installation
 
