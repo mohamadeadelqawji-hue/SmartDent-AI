@@ -98,7 +98,7 @@ const Home: React.FC = () => {
       {/* Footer - ختامية بسيطة */}
       <footer className="text-center py-10 border-t border-slate-100">
         <p className="text-slate-400 font-bold text-sm">
-        حقوق النشر © 2026 - نظام التشخيص الذكي للأسنان | تطوير: م. محمد عادل قاوجي &  م. محمد علاء عموري
+        حقوق النشر © 2026 - نظام التشخيص الذكي للأسنان | تطوير: م. محمد عادل قاوجي  .  
         </p>
       </footer>
     
