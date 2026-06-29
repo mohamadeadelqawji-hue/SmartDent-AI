@@ -48,7 +48,9 @@ SmartDent-AI/
 │   ├── App.tsx                 # Core client routing and layout architecture
 │   └── package.json            # Frontend dependency configuration
 │
-└── .gitignore                  # Environment and cache exclusion configurations⚡ Quick Start & Installation
+└── .gitignore                  # Environment and cache exclusion configurations ```
+
+⚡ Quick Start & Installation
 Prerequisites
 Python 3.10+
 
