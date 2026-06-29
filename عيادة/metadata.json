@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of عيادة السن - Dental CRM",
+  "description": "نظام متكامل لإدارة عيادة الأسنان يشمل لوحة تحكم، ملفات المرضى، خريطة الأسنان التفاعلية، وتحليل الأشعة بالذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

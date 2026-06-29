@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* تعريف الألوان المخصصة لعيادتك داخل تايلوند الجديد */
+@theme {
+  --color-primary: #007f80;
+  --color-deep-teal: #006060;
+  --color-background-light: #f8f9fa;
+  --color-soft-ivory: #fdf5e6;
+  
+  --font-sans: "Noto Sans Arabic", "Manrope", sans-serif;
+}
