@@ -49,3 +49,25 @@ SmartDent-AI/
 │   └── package.json            # Frontend dependency configuration
 │
 └── .gitignore                  # Environment and cache exclusion configurations
+---
+
+### 4.⚡ Quick Start & Installation
+
+### Prerequisites
+* Python 3.10+
+* Node.js (v18+)
+* Git & Git LFS (Large File Storage)
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/mohamadeadelqawji-hue/SmartDent-AI.git](https://github.com/mohamadeadelqawji-hue/SmartDent-AI.git)
+cd SmartDent-AI
+cd ProjectEPUbackend
+python -m venv .venv
+source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
+pip install -r requirements.txt
+python main.py
+cd ../عيادة
+npm install
+npm run dev
+### 5🎓.This platform was developed as a Graduation Project at Ebla Private University (EPU), faculty of Software Engineering. It represents an end-to-end engineering solution applying deep logical architecture to solve real-world clinical challenges in digital health tech.
